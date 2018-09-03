@@ -24,3 +24,6 @@ Provided front-end Unicenter BSO - CSM technical support by providing answers to
 Briarcliffe College
 Aug 2002 - Aug 2004
 Bachelor, Information Technology
+
+# Contact
+chris.milazzo@gmail.com
