@@ -5,7 +5,7 @@ chris.milazzo@gmail.com
 ***
 
 ## About Me
-''Over a decade of experience supporting and administering enterprise applications all by relentlessly and creatively solving customer problems.''
+'''Over a decade of experience supporting and administering enterprise applications all by relentlessly and creatively solving customer problems.'''
 
 ***
 
