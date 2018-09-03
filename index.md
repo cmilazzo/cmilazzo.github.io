@@ -3,7 +3,7 @@
 ### CA APM Technical Consultant at Santander Bank
 August 2018 - Present
 
-Development, Implementation. Testing, Support, Integration and Administration for an API CI/CD Pipeline with CA Application Performance Management (CA APM).  Experience with an agile approach to developing API's.  Experience with tools Git, Github, Jira, Mulesoft, IBM API Connect, Docker, Openshift, NodeJS, Postman, Newman, Jenkins.    
+Development, Implementation. Testing, Support, Integration and Administration a monitoring solution for an API CI/CD Pipeline with CA Application Performance Management (CA APM).  Experience with an agile approach to developing API's.  Experience with tools Git, Github, Jira, Mulesoft, IBM API Connect, Docker, Openshift, NodeJS, Postman, Newman, Jenkins.    
 
 ### Principal Support Engineer at CA
 April 2009 - June 2018
