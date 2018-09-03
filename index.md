@@ -32,4 +32,5 @@ Provided front-end Unicenter BSO - CSM technical support by providing answers to
 
 ### Education
 Briarcliffe College
-Bach, Information Technology, 2002 - 2004
+Aug 2002 - Aug 2004
+Bachelor, Information Technology
