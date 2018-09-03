@@ -1,11 +1,12 @@
 # Christopher Milazzo
-`Over a decade of experience supporting and administering enterprise applications all by relentlessly and creatively solving customer problems.`
+Over a decade of experience supporting and administering enterprise applications all by relentlessly and creatively solving customer problems.
 
 ## Experience
 
 ### CA APM Technical Consultant at Santander Bank
 August 2018 - Present
 
+In Progress
 
 ### Principal Support Engineer at CA
 April 2009 - June 2018
