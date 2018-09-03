@@ -20,10 +20,5 @@ September 2004 - April 2007
 
 >Provided front-end Unicenter BSO - CSM technical support by providing answers to product usability, functionality, configuration, implementation questions and problems.  Experience in Unicenter Asset Management R4 and R11.x, Unicenter Software Delivery R4.x and R11.x, R6 and R11.x Remote Control, All versions of Asset Intelligence, R11.x - R12.x Service Desk, NSM 3.0, Argis/ UAPM, SupportConnect 5.x , CAM, DTS.  Awarded very 1st Best in Class Award. In recognition of outstanding achievement and contribution to CA.  Training included but not limited to, Kepner Tragoe, Super Service, Individual Contributor , Official Unicenter Asset Management and Unicenter Software Delivery training, Internal Unicenter Training Coached\Mentored CA Peers and held many training sessions on various Unicenter topics.  Handled all types of support escalations including mission critical service disruptions.  Worked with all types of Scripting, DNS, DHCP, TCP/IP, Web Services, Database Technologies ( SQL, Ingres) OS Security, Application Security, Product Architectures, Network Technologies, Windows and Linux OS debugging.
 
-# Education
-Briarcliffe College
-Aug 2002 - Aug 2004
-Bachelor, Information Technology
-
 # Contact
 chris.milazzo@gmail.com
