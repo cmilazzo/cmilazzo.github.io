@@ -1,0 +1,3 @@
+[submodule "bitcraft"]
+	path = bitcraft
+	url = https://github.com/cmilazzo/bitcraft_inventory.git
